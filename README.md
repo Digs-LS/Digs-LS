@@ -60,8 +60,8 @@ Sou fluente em **Inglês** e busco aliar disciplina técnica com visão estraté
 ### 📊 GitHub Stats & Linguagens
 
 <div align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Digs-LS&theme=dracula&no-frame=true&row=1"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Digs-LS&theme=dracula"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Digs-LS&theme=dracula&no-frame=true&row=1"/>
 </div>
 
 ---
