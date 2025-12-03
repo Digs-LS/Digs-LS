@@ -1,4 +1,4 @@
-# Olá, eu sou o Diego Sousa! 👋
+# Olá, eu sou Diego Sousa! 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** 🚀 **Especialista em APIs RESTful | Transformação Digital & Gestão do Conhecimento** 💡 **Foco em Governança de TI e Systems Design**
 
