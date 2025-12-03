@@ -57,14 +57,10 @@ Sou fluente em **Inglês** e busco aliar disciplina técnica com visão estraté
 *   **Contato:** diego.lucas.sousa@live.com
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Linguagens
 
 <div align="center">
-  <a href="https://github.com/Digs-LS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Digs-LS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digs-LS&layout=compact&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Digs-LS&theme=dracula&no-frame=true&row=1"/>
 </div>
 
 ---
